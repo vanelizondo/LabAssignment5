@@ -4,6 +4,12 @@
     height: 100%;
   }
 
-  .pull-right {
-    float: right;
+
+
+  .main-outlet {
+    display: none;
+  }
+
+  .toolbar {
+    height: 100%;
   }
